@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEditor.Events;
+using UnityEngine.Events;
 
 namespace Alexis.QuickScript {
     public class QuickRotateMono : MonoBehaviour
